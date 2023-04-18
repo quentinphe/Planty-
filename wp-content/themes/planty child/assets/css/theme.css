@@ -1,0 +1,28 @@
+.hover-effect img {
+    transition: all 0.33s ease-in-out;
+    transform: scale(1) translateY(0px);
+ }
+ .hover-effect img:hover {
+    transition: all 0.33s ease-in-out;
+    transform: scale(1.05) translateY(-10px);
+ }
+
+ .gallery-gouts {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height : 350px;
+ }
+
+
+.paper-left {
+   display: flex;
+   justify-content: end;
+    width: 150%;
+}
+
+.paper-right {
+    display: flex;
+    justify-content: start;
+
+ }
