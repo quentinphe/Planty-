@@ -29,31 +29,7 @@
   color: black;
    
 }
-/* Formulaire de contact simple */
 
-.wpcf7 input:not([type=submit]), .wpcf7 select, .wpcf7 textarea{
-  box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.04);
-  border-radius: 10px;
-  margin-top: 0.5rem;
-}
 
-.elementor-kit-92 button, .elementor-kit-92 input[type="button"], .elementor-kit-92 input[type="submit"], .elementor-kit-92 .elementor-button {
-  padding:1rem 3.5rem;
-  
-}
 
-.wpcf7 textarea {
- height:237px;
-}
-
-.wpcf7 input:not([type=submit]) {
-  height:71px;
-}
-
-.wpcf7 form {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-}
 
